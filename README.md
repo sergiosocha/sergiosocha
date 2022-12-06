@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiosocha&label=Profile%20views&color=0e75b6&style=flat" alt="sergiosocha" /> </p>
 
-- 🌱 I’m currently learning **react,**
+- 🌱 I’m currently learning **react,JavaScript, Css, Java**
 
 - 📫 How to reach me **sergiosocha21@gmail.com**
 
