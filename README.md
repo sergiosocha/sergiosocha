@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiosocha&label=Profile%20views&color=0e75b6&style=flat" alt="sergiosocha" /> </p>
 
-- 🌱 I’m currently learning **java Spring boot, Angular ,JavaScript, Java**
+- 🌱 I’m currently learning **java Spring boot, Angular ,JavaScript, Go**
 
 - 📫 How to reach me ****
 
